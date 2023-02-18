@@ -50,7 +50,7 @@ body {
     outline: none;
     border-radius: 50px;
 }
-.foloww-btn button:hover {
+.follow-btn button:hover {
     background-color: #efb10a;
     transform: scale(1.1);
 }
